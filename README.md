@@ -26,8 +26,5 @@ The goal is to quickly identify potentially misleading or unreliable content wit
 - Content moderation assistance
 - Media literacy tools
 
-## Demo / Code
-Google Colab Notebook: [Paste Colab Link Here]
-
 ## Notes
 This project focuses on speed and simplicity rather than exhaustive fact-checking pipelines.
